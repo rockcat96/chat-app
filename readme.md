@@ -1,7 +1,6 @@
  # Chat App
 
-This app allows the user to create a chat room and connect with their friends via chat. The site allows users to create an account and start chatting with their friends one-on-one and as a group. User can create a chat room, read the content of the chat, add new members to the chat room and delete the chat. The app is built using Django and Chat Engine API for the backend and React for the frontend.
-
+This app allows users to create a chat room and connect with their friends. The site allows users to create an account and chat with their friends one-on-one and as a group. Users can create a chat room, read the content of the chat, add new members to the chat room, and delete the conversation. The app uses Django and Chat Engine API for the backend and React for the frontend.
 
  ### Tech Stack
 
@@ -16,10 +15,10 @@ This app allows the user to create a chat room and connect with their friends vi
 ### User Stories
 - AAU, I can register/login to my chatroom.
 - AAU, I can create one-on-one and group chatroom.
-- AAU, I'm able to delete and update the chatrooms that I created.
-- AAU, I'm able read and retrieve chat history.
+- AAU, I can delete and update the chatrooms that I created.
+- AAU, I can read and retrieve chat history.
 - AAU, I can logout and delete my account.
-- AAU, I'm able to user the app from my phone.
+- AAU, I can use the mobile responsive app from my phone.
 
 
  ### Frontend Wireframe
@@ -34,7 +33,7 @@ This app allows the user to create a chat room and connect with their friends vi
 
 ### Backend Setup
 - User Authentication
-- Creating/reading/updating/delete chatroom
+- Creating/reading/updating/deleting chatroom
 - Retrieving chatroom history 
 
 
